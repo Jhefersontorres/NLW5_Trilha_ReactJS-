@@ -3,18 +3,6 @@
 </div>
 
 <div align="center">
-    <h1> Mantenha-se informado no mundo Dev </h1>
-    <a href="https://rocketseat.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/rocketseat-NextLevelWeek5-04d361?logo=&style=for-the-badge&labelColor=8257e5" target="_blank" alt="Next-Level-Week-5">
-    </a>
-    <a href="https://github.com/Pedrovinhas" target="_blank"><img src="https://img.shields.io/badge/author-pedrovinhas-04d361?logo=&style=for-the-badge&labelColor=8257e5" alt="Github"> </a>
-    <img src="https://img.shields.io/github/languages/count/pedrovinhas/podcastr?color=04d361&style=for-the-badge&labelColor=8257e5" alt="Linguagens"> 
-    <img src="https://img.shields.io/github/languages/top/pedrovinhas/podcastr?color=04d361&style=for-the-badge&labelColor=8257e5" alt="Linguagens"> 
-    <img src="https://img.shields.io/david/dev/pedrovinhas/podcastr?color=04d361&style=for-the-badge&labelColor=8257e5" alt="Dependencias"> 
-    <img src="https://img.shields.io/badge/license-MIT-04d361?logo=&style=for-the-badge&labelColor=8257e5" alt="License">
-</div>
-
-<div align="center">
 <img  src="public/notebook-mockup.png" alt="Exemplo da aplicação">
 </div>
 
