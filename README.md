@@ -46,7 +46,7 @@ O Podcastr é uma aplicação desenvolvida durante a Next Level Week 5 de React 
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/pedrovinhas/podcastr 
+$ git clone
 
 # Entre na pasta do projeto
 $ cd podcastr
