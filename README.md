@@ -35,12 +35,6 @@ O Podcastr é uma aplicação desenvolvida durante a Next Level Week 5 de React 
 - [ ] Dark-theme
 - [ ] PWA
 
-## 😀 Commits
-- 🎉 **Begin a project**
-- 🎨 **Improve structure / format of the code**
-- ⚡ **Improve performance**
-- ✨ **Introduce new features**
-- 🚀 **Deploy Stuff**
 
 ## 🚀 Instalação
 
@@ -68,6 +62,6 @@ This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for
 
 ---
 <blockquote>
-    Feito por Pedro Henrique Vinhas 🪐
+    
 </blockquote>
 
